@@ -1,3 +1,5 @@
+package EstruturasCondicionais;
+
 import java.util.Scanner;
 
 public class SistemaMedida {
